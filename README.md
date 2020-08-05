@@ -1,5 +1,5 @@
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQGm_k1p0_4fFw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=6M2cfoeXWAlK-6T6IGnU0YQhXAkPGDeI_NrsmFrvKkU">
 
 # Diackson-Marques
 ## Olá pessoal 👋
@@ -11,8 +11,7 @@ Sou um FullStack Developer :computer:
 Contatos:
 Email: diackson123@gmail.com
 Instagram: diacksonmmarques
-LinkedIn
-:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DiacksonMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/diackson-marques)](www.linkedin.com/in/diackson-marques) 
+LinkedIn: https://www.linkedin.com/in/diackson-marques/
 
 Trabalho atuamente no Colégio Salesiano São João Bosco como técnico em informática e desenvolvedor Frontend e Backend.
 
@@ -24,7 +23,7 @@ atividades de forma responsável e dedicada, aprimorando minhas habilidades de f
 Caso queira entrar em contato estou disponível nas redes sociais:
 Email: diackson123@gmail.com
 Instagram: diacksonmmarques
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/diackson-marques/
 Whatsapp: (88) 98809-4970 
 [![Gmail Badge](https://img.shields.io/badge/-diackson123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diackson123@gmail.com)](mailto:diackson123@gmail.com)
 
