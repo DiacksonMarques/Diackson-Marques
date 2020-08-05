@@ -8,11 +8,6 @@ Sou um técnico em informática graduado em Análise e Desenvolvimento de Softwa
 Sou apaixonado por resolver problemas utilizando a programação.<br/>
 Sou um FullStack Developer :computer:
 
-<br/>Contatos:
-<br/>Email: diackson123@gmail.com
-<br/>Instagram: diacksonmmarques
-<br/>LinkedIn: https://www.linkedin.com/in/diackson-marques/
-
 Trabalho atuamente no Colégio Salesiano São João Bosco como técnico em informática e desenvolvedor Frontend e Backend.
 
 :computer: &nbsp; Minha stack: Vue.js, Node.js,Quasar, Codeigniter 4, Laravel, Lumem
